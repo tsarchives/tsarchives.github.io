@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXTINF:1
+https://m3player.github.io/22.ts
+#EXTINF:1
+https://m3player.github.io/23.ts
+#EXTINF:1
+https://m3player.github.io/24.ts
+#EXTINF:1
+https://m3player.github.io/25.ts
+#EXTINF:1
+https://m3player.github.io/26.ts
